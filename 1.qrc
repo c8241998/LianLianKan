@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>连连看/初始化界面/0x1024a0a0.jpg</file>
+        <file>连连看/初始化界面/初始化1.jpg</file>
+        <file>连连看/初始化界面/初始化1副本.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本1.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本10.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本11.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本12.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本13.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本14.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本15.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本16.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本17.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本18.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本19.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本2.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本3.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本4.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本5.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本6.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本7.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本8.jpg</file>
+        <file>连连看/动物头像50乘50px/0x1024a0a0副本9.jpg</file>
+        <file>连连看/游戏ing界面/5a2fdd9ee6a14_1024.jpg</file>
+        <file>连连看/游戏ing界面/游戏界面.jpg</file>
+        <file>连连看/点击效果初步/1.jpg</file>
+        <file>连连看/点击效果初步/2.jpg</file>
+        <file>连连看/点击效果初步/3.jpg</file>
+        <file>连连看/点击效果初步/4.jpg</file>
+        <file>连连看/初始化界面/开始游戏.jpg</file>
+        <file>连连看/初始化界面/3游戏说明jpg.jpg</file>
+        <file>连连看/初始化界面/排行榜.jpg</file>
+    </qresource>
+</RCC>

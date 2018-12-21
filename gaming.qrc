@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>source/animal/0.jpg</file>
+        <file>source/animal/1.jpg</file>
+        <file>source/animal/2.jpg</file>
+        <file>source/animal/3.jpg</file>
+        <file>source/animal/4.jpg</file>
+        <file>source/animal/5.jpg</file>
+        <file>source/animal/6.jpg</file>
+        <file>source/animal/7.jpg</file>
+        <file>source/animal/8.jpg</file>
+        <file>source/animal/9.jpg</file>
+        <file>source/animal/10.jpg</file>
+        <file>source/animal/11.jpg</file>
+        <file>source/animal/12.jpg</file>
+        <file>source/animal/13.jpg</file>
+        <file>source/animal/14.jpg</file>
+        <file>source/animal/15.jpg</file>
+        <file>source/animal/16.jpg</file>
+        <file>source/animal/17.jpg</file>
+        <file>source/animal/18.jpg</file>
+        <file>source/animal/19.jpg</file>
+    </qresource>
+</RCC>
